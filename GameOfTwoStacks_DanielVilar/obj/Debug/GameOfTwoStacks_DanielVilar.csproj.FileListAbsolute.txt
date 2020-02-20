@@ -1,0 +1,12 @@
+C:\Users\Villar\Desktop\GameOfTwoStacks_DanielVilar\GameOfTwoStacks_DanielVilar\bin\Debug\GameOfTwoStacks_DanielVilar.exe.config
+C:\Users\Villar\Desktop\GameOfTwoStacks_DanielVilar\GameOfTwoStacks_DanielVilar\bin\Debug\GameOfTwoStacks_DanielVilar.exe
+C:\Users\Villar\Desktop\GameOfTwoStacks_DanielVilar\GameOfTwoStacks_DanielVilar\bin\Debug\GameOfTwoStacks_DanielVilar.pdb
+C:\Users\Villar\Desktop\GameOfTwoStacks_DanielVilar\GameOfTwoStacks_DanielVilar\obj\Debug\GameOfTwoStacks_DanielVilar.csproj.CoreCompileInputs.cache
+C:\Users\Villar\Desktop\GameOfTwoStacks_DanielVilar\GameOfTwoStacks_DanielVilar\obj\Debug\GameOfTwoStacks_DanielVilar.exe
+C:\Users\Villar\Desktop\GameOfTwoStacks_DanielVilar\GameOfTwoStacks_DanielVilar\obj\Debug\GameOfTwoStacks_DanielVilar.pdb
+C:\Users\Villar\Desktop\teste\GameOfTwoStacks\GameOfTwoStacks_DanielVilar\bin\Debug\GameOfTwoStacks_DanielVilar.exe.config
+C:\Users\Villar\Desktop\teste\GameOfTwoStacks\GameOfTwoStacks_DanielVilar\bin\Debug\GameOfTwoStacks_DanielVilar.exe
+C:\Users\Villar\Desktop\teste\GameOfTwoStacks\GameOfTwoStacks_DanielVilar\bin\Debug\GameOfTwoStacks_DanielVilar.pdb
+C:\Users\Villar\Desktop\teste\GameOfTwoStacks\GameOfTwoStacks_DanielVilar\obj\Debug\GameOfTwoStacks_DanielVilar.csproj.CoreCompileInputs.cache
+C:\Users\Villar\Desktop\teste\GameOfTwoStacks\GameOfTwoStacks_DanielVilar\obj\Debug\GameOfTwoStacks_DanielVilar.exe
+C:\Users\Villar\Desktop\teste\GameOfTwoStacks\GameOfTwoStacks_DanielVilar\obj\Debug\GameOfTwoStacks_DanielVilar.pdb
